@@ -1,0 +1,25 @@
+{
+  "name": "graphql-server-with-node-js-and-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asher-Tan/graphql-server-with-node-js-and-sql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asher-Tan/graphql-server-with-node-js-and-sql/issues"
+  },
+  "homepage": "https://github.com/Asher-Tan/graphql-server-with-node-js-and-sql#readme",
+  "dependencies": {
+    "graphql": "^0.11.7",
+    "koa": "^2.3.0",
+    "sqlite3": "^3.1.13"
+  }
+}
